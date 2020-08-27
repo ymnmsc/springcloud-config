@@ -1,0 +1,4 @@
+spring:
+  profiles: prod     #prod环境
+  application: 
+    name: microservicecloud-config-atguigu-prod
